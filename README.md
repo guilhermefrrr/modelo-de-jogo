@@ -1,6 +1,6 @@
 # Modelo de Jogo
 
-Análise das equipes das cinco principais ligas europeias na temporada 2021/22 por estilo de jogo, com métricas coletivas do Wyscout, PCA e K-Means em Python, para ajudar um clube a escolher destinos de empréstimo com modelo de jogo semelhante ao seu. Trabalho final do mestrado em Big Data Aplicado ao Futebol.
+Análise das equipes das cinco principais ligas europeias na temporada 2021/22 por estilo de jogo, com métricas coletivas do Wyscout, PCA e K-Means em Python, para ajudar um clube a escolher destinos de empréstimo com modelo de jogo semelhante ao seu. Trabalho final do master em Big Data Aplicado ao Futebol.
 
 > **English:** Analysis of the teams from Europe's top five leagues during the 2021/22 season by playing style, using Wyscout team metrics, PCA and K-Means, to help a club shortlist loan destinations with a similar playing model. Group project; the report is in Portuguese.
 
